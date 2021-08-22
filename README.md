@@ -134,6 +134,3 @@ Once you're done writing, close connection to release resources.
       print(e.message);
     }
   }
-```
-
-For more info see tests and example project.
