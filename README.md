@@ -1,8 +1,11 @@
-# flutter_usb_write
+# flutter_usb_write_nullsafety
+
+This package just migrate package flutter_usb_write to null safety.
+thanks to developers.
 
 Write raw data to USB device on Android.
 
-Unlike [USB Serial]() plugin, this plugin DOES NOT use serial protocol.
+Unlike [USB Serial](https://pub.dev/packages/usb_serial) plugin, this plugin DOES NOT use serial protocol.
 
 For example this can be use to print on USB POS printer by sending ESC\POS bytes.
 
